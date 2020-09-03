@@ -24,8 +24,6 @@ public class PracArrayList {
             System.out.println("Exception:" + e);
             return;
         }
-
-
     }
 
     public Map<String, String> aa(Map<String,String> a) {
